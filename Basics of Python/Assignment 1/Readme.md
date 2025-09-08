@@ -1,0 +1,1 @@
+# programme to find area and perfect square
