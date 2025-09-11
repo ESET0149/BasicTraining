@@ -1,0 +1,1 @@
+control three led blinking where first led is continuosly on another is blinking by the delay of 500ms and last one is blinking in starting and then off.
